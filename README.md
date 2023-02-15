@@ -5,7 +5,6 @@ My name is Javier and I have been working in the IT industry as a Technical Supp
 
 <br>
 
-<div style="display: inline-block; width: 50%; float: left;">
     
 ## My Skills
 
@@ -21,15 +20,7 @@ My name is Javier and I have been working in the IT industry as a Technical Supp
 
 <br>
 
-## Contact
 
-You can reach me at xab.dev@gmail.com or on [LinkedIn][def]. Let's connect!
-
-
-
-</div>
-
-<div style="display: block; width: 50%; float: right;">
     
 ## Projects
 
@@ -38,7 +29,18 @@ Here are a few of my projects:
 - [Cat Owner Certificate](https://xabdev.github.io): A simple, responsive web application built with HTML, CSS, and JavaScript.
 - [STR](https://www.instagram.com/st.reboot/): : A project to create a professional Instagram account focused on providing IT tips and technical services to individuals and small businesses.
 
-</div>
+
+<br><br>
+
+## Contact
+
+You can reach me at xab.dev@gmail.com or on [LinkedIn][def]. Let's connect!
+
+
 
 
 [def]: https://www.linkedin.com/in/javier-salcedo-68b5671a8/
+
+
+
+
