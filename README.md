@@ -1,2 +1,2 @@
 
-🤓 Currently learning HTML, CSS, JavaScript.
+🤓 Currently JavaScript.
