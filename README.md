@@ -29,7 +29,7 @@ My name is Javier and I have been working in the IT industry as a Technical Supp
 Here are a few of my projects:
 
 - [Cat Owner Certificate](https://xabdev.github.io): A simple, responsive web application built with HTML, CSS, and JavaScript.
-- [STR](https://www.instagram.com/st.reboot/): : A project to create a professional Instagram account focused on providing IT tips and technical services to individuals and small businesses.
+- [STR](https://www.instagram.com/st.reboot/): : STR is an Instagram account that provides practical IT tips and services to individuals and small businesses.
 
 
 <br>
