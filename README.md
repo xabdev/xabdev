@@ -10,13 +10,12 @@ My name is Javier and I have been working in the IT industry as a Technical Supp
 
 - Linux
 - Windows
-- C++ / Python
 - HTML/CSS
-- AWS / SQL
-- GIMP
-- Blender
-- Adobe Photoshop
-- Adobe Premiere
+- C++ / Python
+- AWS
+- SQL
+- GIMP, Blender
+- Adobe Photoshop, Premiere
 
 
 
